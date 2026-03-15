@@ -1,4 +1,3 @@
-# Privacy Policy
 ### Master VP (Master Voyage Planner)
 
 Last updated: March 2026
