@@ -1,1 +1,1 @@
-# mastervp-privacy
+# Privacy Policy
