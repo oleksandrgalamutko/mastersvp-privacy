@@ -3,11 +3,11 @@ Master VP (Master Voyage Planner)
 
 Last updated: March 2026
 
-Master Voyage Planner ("the App") respects your privacy. The application is designed to operate primarily on your device and does not collect personal data from users.
+Master VP ("the App") respects your privacy. The application is designed to operate primarily on your device and does not collect personal data from users.
 
 1. Data Collection
 
-Master Voyage Planner does not collect, store, or transmit personal information, analytics data, or usage data to the developer or any third parties.
+Master VP does not collect, store, or transmit personal information, analytics data, or usage data to the developer or any third parties.
 
 The App does not track users and does not use advertising identifiers.
 
@@ -37,7 +37,7 @@ All payments are processed securely by Apple through the App Store. The App does
 
 6. Third-Party Services
 
-Master Voyage Planner does not use third-party analytics services, advertising networks, or tracking technologies.
+Master VP does not use third-party analytics services, advertising networks, or tracking technologies.
 
 7. Changes to This Privacy Policy
 
