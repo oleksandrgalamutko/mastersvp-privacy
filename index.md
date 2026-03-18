@@ -31,9 +31,7 @@ These notifications are generated and managed entirely on the user's device.
 
 5. In-App Purchases
 
-The App offers optional in-app purchases to unlock additional features such as calendar export, ETA notifications, and PDF export.
-
-All payments are processed securely by Apple through the App Store. The App does not process or store payment information.
+The App does not offer optional in-app purchases to unlock additional features.
 
 6. Third-Party Services
 
